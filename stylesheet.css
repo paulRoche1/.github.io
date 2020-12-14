@@ -1,0 +1,123 @@
+﻿.about {
+    padding-top: 20px;
+    color: white;
+}
+
+    .about img {
+        border-radius: 50%;
+    }
+
+.hero {
+    background-color: #00ccff;
+    padding: 100px 50px;
+}
+
+.button {
+    color: black;
+}
+
+.modal {
+    color: black;
+    padding-top: 100px;
+    width: 100%;
+    height: 100%;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    color: black;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+
+.container-fluid {
+    padding: 60px 50px;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+.proj {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+}
+
+    .proj img {
+        width: 60%;
+        height: 60%;
+        margin-bottom: 10px;
+    }
+
+    h2.proj {
+        color: #00ccff;
+    }
+
+.panel {
+    border: 1px solid #00ccff;
+    border-radius: 0 !important;
+    transition: box-shadow 0.5s;
+}
+
+    .panel:hover {
+        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    }
+
+.panel-footer .btn:hover {
+    border: 1px solid #f4511e;
+    background-color: #fff !important;
+    color: #f4511e;
+}
+
+.panel-heading {
+    color: #fff !important;
+    background-color: #00ccff !important;
+    padding: 25px;
+}
+
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #00ccff;
+    border: 0;
+    font-size: 12px;
+    letter-spacing: 4px;
+}
+
+    .navbar li a, .navbar .navbar-brand {
+        color: #fff !important;
+    }
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #00ccff !important;
+    background-color: #fff !important;
+}
+
+.workexp {
+    padding-left: 150px;
+}
+    .workexp img {
+        width: 40%;
+        height: 40%;
+    }
+
+.hobbies {
+    padding-left: 150px;
+}
+
+.contact {
+    padding-left: 150px;
+    padding-right: 150px;
+}
